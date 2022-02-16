@@ -1,0 +1,6 @@
+C:\Users\Mariana Machado\source\repos\recargaCelOne\recargaCelOne\bin\Debug\recargaCelOne.dll
+C:\Users\Mariana Machado\source\repos\recargaCelOne\recargaCelOne\bin\Debug\recargaCelOne.pdb
+C:\Users\Mariana Machado\source\repos\recargaCelOne\recargaCelOne\obj\Debug\recargaCelOne.csprojAssemblyReference.cache
+C:\Users\Mariana Machado\source\repos\recargaCelOne\recargaCelOne\obj\Debug\recargaCelOne.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Machado\source\repos\recargaCelOne\recargaCelOne\obj\Debug\recargaCelOne.dll
+C:\Users\Mariana Machado\source\repos\recargaCelOne\recargaCelOne\obj\Debug\recargaCelOne.pdb

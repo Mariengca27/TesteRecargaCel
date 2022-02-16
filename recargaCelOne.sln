@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recargaCelOne", "recargaCelOne\recargaCelOne.csproj", "{FACF483B-E100-4F7F-978A-92199030E31A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recargaTesteUnidade", "recargaTesteUnidade\recargaTesteUnidade.csproj", "{DA599B0C-726F-46A7-8836-104D61690655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FACF483B-E100-4F7F-978A-92199030E31A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACF483B-E100-4F7F-978A-92199030E31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACF483B-E100-4F7F-978A-92199030E31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACF483B-E100-4F7F-978A-92199030E31A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA599B0C-726F-46A7-8836-104D61690655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA599B0C-726F-46A7-8836-104D61690655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA599B0C-726F-46A7-8836-104D61690655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA599B0C-726F-46A7-8836-104D61690655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86F5810F-5AA4-4974-98BB-3F48211B14ED}
+	EndGlobalSection
+EndGlobal
